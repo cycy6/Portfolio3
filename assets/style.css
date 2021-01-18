@@ -16,6 +16,7 @@ body {
   line-height: 150%;
   color: #eee;
   background: url(backgroundimg.jpg) no-repeat;
+  background-size: auto;
   background-size: cover;
   height: 100%;
 }
